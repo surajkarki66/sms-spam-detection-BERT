@@ -8,7 +8,7 @@ MS spam detection app, powered by Hugging Face's BERT model and deployed on Stre
 ## Local Preview
 1. Clone the repository
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/surajkarki66/sms-spam-detection-BERT.git
    ```
 2. Create a Python virtual environment and activate the environment based on your machine(Linux, MacOS, and Windows)
 3. Install the requirements
