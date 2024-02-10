@@ -1,5 +1,6 @@
 import streamlit as st
 import numpy as np
+
 from transformers import BertTokenizer, BertForSequenceClassification
 
 # Function to load the BERT model and tokenizer
